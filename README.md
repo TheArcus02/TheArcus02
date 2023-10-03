@@ -2,7 +2,7 @@
 
 - 📚 I am a second-year computer science student at Poznan University of Technology. 
 - 🖱 I develop web applications in React, Typescript and Next.js.
-- 🛠 Besides that, I also have experience working with the REST API and MERN stack.
+- 🛠 Besides that, I also have experience working with the Node.js, REST API and MERN stack.
 - 🐍 In addition, I am familiar with Python, which mainly serves me as a tool for learning algorithms and data structures
 - ☁ I am a certified AWS Cloud Practitioner.
 - 💻 My experience comes from self-learning along with internship.
