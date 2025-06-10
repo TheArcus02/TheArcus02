@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi There 👋
 
-- 📚 I am a third year computer science student at Poznan University of Technology. 
-- 🖱 I develop web applications in Next.js, React and Typescript.
-- 🐍 In addition, I am familiar with Python.
-- ☁ I am a certified AWS Cloud Practitioner.
-- ⛓ Besides that, I am passionate about crypto and cloud concepts ☁.
-- 👨‍🏫 I believe we can learn anything with enough time and selfdiscipline. 
-- 📈 I am committed to learning new technologies and further developing my skills as a web developer.
+I'm Mikołaj. I turn code into business, building my software house **Upsphere** from the ground up.
+
+*   Leveraging **Next.js** & **React Native** to build digital products that matter.
+*   Focused on launching SaaS solutions to solve problems in interesting niches.
+*   Operating at the intersection of long-term vision and daily discipline.
+*   Driven by the pursuit of independence and building things with purpose.
+
+Open to conversations about business, tech, and unconventional ideas.
+
+📬 **Connect:** kontakt@upsphere.pl
